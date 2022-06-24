@@ -1,0 +1,71 @@
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    font-size: 20px;
+    font-family: Arial;
+    padding-left: 15px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+.topnav-right {
+    float: right;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+  }
+
+  .menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+.btnn{
+  width: 240px;
+  height: 40px;
+  background: #ff7200;
+  border: none;
+  margin-top: 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: 0.4s ease;
+}
+
+.btnn:hover{
+  background: #fff;
+  color: #ff7200;
+}
+.btnn a{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.content{
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  color: #fff;
+  position: relative;
+}
+
